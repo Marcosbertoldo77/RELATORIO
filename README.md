@@ -18,16 +18,17 @@ Esse é um projeto de autenticação simples e moderno, desenvolvido com foco em
 ## 📸 Preview
 
 ### Tela de Login
-![Login](./assets/login-preview.png)
+![image](https://github.com/user-attachments/assets/5ccca92b-0945-4865-9100-faee9f7c5e23)
+
 
 ### Tela de Cadastro
-![Cadastro](./assets/cadastro-preview.png)
+![image](https://github.com/user-attachments/assets/47f6a2a2-551b-4096-910c-d34754ca8fec)
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **PHP 7+**
+- **PHP 8+**
 - **MySQL** (ou MariaDB)
 - **Bootstrap 5**
 - **HTML5 + CSS3**
