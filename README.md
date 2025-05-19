@@ -93,13 +93,7 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Se quiser, posso te gerar esse arquivo `README.md` prontinho com links e tudo formatado pra você colar direto no GitHub.
 
-Só me fala:
-- Você já salvou as imagens de preview (`login-preview.png`, `cadastro-preview.png`) dentro da pasta `assets/`?
-- Quer que eu gere esse `.md` pra você agora?
-
-Vamo deixar esse projeto tinindo pro mundo ver! 🚀✨
 
 
 
